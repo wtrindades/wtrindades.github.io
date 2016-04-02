@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Site title</title>
-  <subtitle>This is the site subtitle</subtitle>
+  <title>Wagner Trindade</title>
+  <subtitle>Full Stack Developer</subtitle>
   <id>http://example.com/</id>
   <link href="http://example.com/"/>
   <link href="http://example.com/feed.xml" rel="self"/>
-  <updated>2011-12-31T22:00:00-02:00</updated>
+  <updated>2016-03-31T21:00:00-03:00</updated>
   <author>
-    <name>Joe Bloggs</name>
+    <name>Wagner Trindade</name>
   </author>
   <entry>
-    <title>Example Article</title>
-    <link rel="alternate" href="http://example.com/example-article/"/>
-    <id>http://example.com/example-article/</id>
-    <published>2011-12-31T22:00:00-02:00</published>
-    <updated>2016-04-01T20:30:56-03:00</updated>
+    <title>5 coisas que eu não sabia de Ruby</title>
+    <link rel="alternate" href="http://example.com/5-coisas-que-eu-nao-sabia-de-ruby/"/>
+    <id>http://example.com/5-coisas-que-eu-nao-sabia-de-ruby/</id>
+    <published>2016-03-31T21:00:00-03:00</published>
+    <updated>2016-04-01T21:59:52-03:00</updated>
     <author>
-      <name>Joe Bloggs</name>
+      <name>Wagner Trindade</name>
     </author>
     <content type="html">&lt;p&gt;This is an example article. You probably want to delete it and write your own articles!&lt;/p&gt;
 </content>
