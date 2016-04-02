@@ -56,18 +56,15 @@ set :markdown, fenced_code_blocks: true, smartypants: true
 # Site settings
 ###
 set :site_url, 'http://example.com/'
-set :site_title, 'Site title'
-set :site_subtitle, 'This is the site subtitle'
+set :site_title, 'Wagner Trindade'
+set :site_subtitle, 'Full Stack Developer'
 set :profile_text, %q(Pitchfork kogi forage, gluten-free pour-over drinking vinegar Etsy narwhal next level shabby chic bicycle rights tofu mustache scenester. Intelligentsia Brooklyn mumblecore, church-key meggings cardigan quinoa gluten-free banjo. Polaroid beard 8-bit, lumbersexual photo booth forage bitters mustache drinking vinegar biodiesel cardigan. Four loko raw denim polaroid selfies, mixtape skateboard lumbersexual. Odd Future Blue Bottle bicycle rights Etsy. Etsy Odd Future normcore, deep v Shoreditch seitan sustainable yr heirloom Brooklyn try-hard stumptown Bushwick cornhole. Portland chillwave pug Tumblr deep v readymade.)
-set :site_author, 'Joe Bloggs'
+set :site_author, 'Wagner Trindade'
 
 # Usernames
-set :github_username, 'example'
-set :keybase_username, 'example'
-set :twitter_username, 'example'
-set :linkedin_username, 'example'
-set :lastfm_username, 'example'
-set :spotify_username, 'example'
+set :github_username, 'wtrindades'
+set :twitter_username, 'WagnerTrindades'
+set :linkedin_username, 'wagner-trindade-sanseverino-2592279a'
 
 # Replace 'nil' with your Disqus shortname, eg. 'example'
 set :disqus_shortname, nil
@@ -80,7 +77,7 @@ set :google_analytics, nil
 # Development-specific configuration
 configure :development do
   # Reload the browser automatically whenever files change
-  # activate :livereload
+  activate :livereload
 end
 
 # Build-specific configuration
